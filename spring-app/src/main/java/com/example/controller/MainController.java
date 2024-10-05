@@ -24,5 +24,4 @@ public class MainController {
         model.addAttribute("users", users);
         return "users";
     }
-
 }
